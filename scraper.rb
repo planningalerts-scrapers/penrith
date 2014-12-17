@@ -1,10 +1,27 @@
 require 'scraperwiki'
 require 'rss/2.0'
 require 'date'
+require 'mechanize'
 
 url = 'http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?d=thismonth&k=LodgementDate&t=DA&o=rss'
 
-feed = RSS::Parser.parse(url, false)
+agent = Mechanize.new
+
+# For some incomprehensible reason, there's an "I agree" page for an RSS feed.
+page = agent.get(url)
+form = page.forms.first
+form.checkbox_with(:name => /Agree/).check
+page2 = form.submit(form.button_with(:name => /Agree/))
+
+t = page2.content.to_s
+
+# I've no idea why the RSS feed says it's encoded as utf-16 when as far as I can tell it isn't
+# Hack it by switching it back to utf-8
+t.gsub!("utf-16", "utf-8")
+
+
+# Now we can fetch the data
+feed = RSS::Parser.parse(t, false)
 
 feed.channel.items.each do |item|
   record = {
