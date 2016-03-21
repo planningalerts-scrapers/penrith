@@ -3,7 +3,7 @@ require 'rss/2.0'
 require 'date'
 require 'mechanize'
 
-url = 'http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?d=thismonth&k=LodgementDate&t=DA&o=rss'
+url = 'http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?d=thismonth&k=LodgementDate&t=DA,DevApp&o=rss'
 
 agent = Mechanize.new
 
