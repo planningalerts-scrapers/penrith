@@ -5,14 +5,12 @@
   date_received: '2019-06-03'
   address: 25 Menzies Circuit ST CLAIR NSW 2759
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439078
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439078
   date_scraped: '2019-05-15'
 - council_reference: DA17/1060.02
   description: Two Storey Dwelling and Attached Secondary Dwelling
   date_received: '2019-06-06'
   address: 45 Muscharry Road LONDONDERRY NSW 2753
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439280
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439280
   date_scraped: '2019-05-15'
 - council_reference: DA18/0292.02
   description: Modification to Construction of 3 x Town Houses pursuant to State Environmental
@@ -20,42 +18,36 @@
   date_received: '2019-06-06'
   address: 44 Park Avenue KINGSWOOD NSW 2747
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439314
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439314
   date_scraped: '2019-05-15'
 - council_reference: DA18/1188.01
   description: Dwelling House - Modifications to Remove Conditions 21 and 22
   date_received: '2019-06-06'
   address: 126 Forestwood Drive GLENMORE PARK NSW 2745
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439309
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439309
   date_scraped: '2019-05-15'
 - council_reference: DA19/0359
   description: Garden Shed
   date_received: '2019-06-03'
   address: 71 Garswood Road GLENMORE PARK NSW 2745
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439014
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439014
   date_scraped: '2019-05-15'
 - council_reference: DA19/0360
   description: Awning
   date_received: '2019-06-04'
   address: 14 a Blueridge Place ORCHARD HILLS NSW 2748
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439106
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439106
   date_scraped: '2019-05-15'
 - council_reference: DA19/0361
   description: Single Storey Dwelling
   date_received: '2019-06-04'
   address: 51 a Tedbury Road LLANDILO NSW 2747
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439112
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439112
   date_scraped: '2019-05-15'
 - council_reference: DA19/0362
   description: Secondary Dwelling
   date_received: '2019-06-04'
   address: 19  - 23 Carrington Road LONDONDERRY NSW 2753
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439115
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439115
   date_scraped: '2019-05-15'
 - council_reference: DA19/0363
   description: Demolition of existing structures and construction of a 23 room boarding
@@ -64,84 +56,72 @@
   date_received: '2019-06-04'
   address: 41 Manning Street KINGSWOOD NSW 2747
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439128
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439128
   date_scraped: '2019-05-15'
 - council_reference: DA19/0364
   description: 2x Lot Strata Title Subdivision
   date_received: '2019-06-04'
   address: 41 Barker Street CAMBRIDGE PARK NSW 2747
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439136
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439136
   date_scraped: '2019-05-15'
 - council_reference: DA19/0365
   description: Inground Swimming Pool
   date_received: '2019-06-04'
   address: 91 Melville Road ST CLAIR NSW 2759
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439151
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439151
   date_scraped: '2019-05-15'
 - council_reference: DA19/0366
   description: Two Storey Dwelling
   date_received: '2019-06-04'
   address: 8 Commodore Street LLANDILO NSW 2747
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439163
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439163
   date_scraped: '2019-05-15'
 - council_reference: DA19/0367
   description: Use as Transport Depot
   date_received: '2019-06-04'
   address: 101 Gascoigne Street KINGSWOOD NSW 2747
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439186
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439186
   date_scraped: '2019-05-15'
 - council_reference: DA19/0368
   description: Dwelling Additions and Demolition of Outbuildings
   date_received: '2019-06-04'
   address: 86 Mt Vernon Road MOUNT VERNON NSW 2178
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439189
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439189
   date_scraped: '2019-05-15'
 - council_reference: DA19/0369
   description: Two Storey Dwelling
   date_received: '2019-06-05'
   address: 16 Garnet Drive CADDENS NSW 2747
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439209
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439209
   date_scraped: '2019-05-15'
 - council_reference: DA19/0370
   description: Construction of an Attached Dual Occupancy
   date_received: '2019-06-05'
   address: 113 Marsden Road ST MARYS NSW 2760
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439211
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439211
   date_scraped: '2019-05-15'
 - council_reference: DA19/0371
   description: Strata Subdivision of Existing Dual Occupancy into 2 Lots
   date_received: '2019-06-05'
   address: 117 Wrench Street CAMBRIDGE PARK NSW 2747
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439213
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439213
   date_scraped: '2019-05-15'
 - council_reference: DA19/0372
   description: Inground Swimming Pool
   date_received: '2019-06-05'
   address: 6 / 10 Barrett Place CRANEBROOK NSW 2749
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439217
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439217
   date_scraped: '2019-05-15'
 - council_reference: DA19/0373
   description: Construction of an Attached Dual Occupancy (2 new)
   date_received: '2019-06-05'
   address: 7 Burrawang Close KINGSWOOD NSW 2747
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439220
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439220
   date_scraped: '2019-05-15'
 - council_reference: DA19/0374
   description: Single Storey Dwelling
   date_received: '2019-06-05'
   address: 20 Randall Street GLENMORE PARK NSW 2745
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439228
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439228
   date_scraped: '2019-05-15'
 - council_reference: DA19/0375
   description: Demolition of Existing Structures, and Construction of a New 2 Storey
@@ -149,14 +129,12 @@
   date_received: '2019-06-05'
   address: 181 Victoria Street CAMBRIDGE PARK NSW 2747
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439229
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439229
   date_scraped: '2019-05-15'
 - council_reference: DA19/0376
   description: Subdivision of one (1) existing lot into two (2) lots
   date_received: '2019-06-05'
   address: 821  - 849 Luddenham Road LUDDENHAM NSW 2745
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439239
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439239
   date_scraped: '2019-05-15'
 - council_reference: DA19/0377
   description: Construction of a Leachate Pond & Decommissioning of an existing Leachate
@@ -164,40 +142,34 @@
   date_received: '2019-06-05'
   address: 16  - 23 Clifton Avenue KEMPS CREEK NSW 2178
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439245
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439245
   date_scraped: '2019-05-15'
 - council_reference: DA19/0378
   description: Two storey dwelling
   date_received: '2019-06-05'
   address: 7 Gibbes Street REGENTVILLE NSW 2745
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439255
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439255
   date_scraped: '2019-05-15'
 - council_reference: DA19/0379
   description: Retrospective Approval for an Existing Secondary Dwelling
   date_received: '2019-06-05'
   address: 62 Maple Road NORTH ST MARYS NSW 2760
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439268
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439268
   date_scraped: '2019-05-15'
 - council_reference: DA19/0380
   description: Alterations and Additions
   date_received: '2019-06-06'
   address: 29 Water Street EMU PLAINS NSW 2750
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439343
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439343
   date_scraped: '2019-05-15'
 - council_reference: DA19/0381
   description: Demolition of Industrial Shed
   date_received: '2019-06-06'
   address: 196 Christie Street ST MARYS NSW 2760
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439354
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439354
   date_scraped: '2019-05-15'
 - council_reference: DA19/0382
   description: Detached Secondary Dwelling and Wastewater system
   date_received: '2019-06-07'
   address: 391  - 393 Londonderry Road LONDONDERRY NSW 2753
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439378
-  comment_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439378
   date_scraped: '2019-05-15'

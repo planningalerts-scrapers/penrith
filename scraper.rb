@@ -31,9 +31,6 @@ feed.channel.items.each do |item|
     'date_received'     => Date.parse(item.pubDate.to_s),
     'address'           => item.description.split('.')[0].strip,
     'info_url'          => "http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx#{item.link}",
-    # Comment URL is actually an email address but I think it's best
-    # they go to the detail page
-    'comment_url'       => "http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx#{item.link}",
     'date_scraped'      => Date.today.to_s
   }
   # p record
