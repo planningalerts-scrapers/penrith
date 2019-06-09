@@ -14,7 +14,7 @@
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439280
 - council_reference: DA17/1163.02
   description: Modification to add a balcony and amending front window and rear doors
-    to dwelling A
+    to dwelling A.
   date_received: '2019-06-07'
   address: 11 Macadamia Court KINGSWOOD NSW 2747
   date_scraped: '2019-05-15'
@@ -26,7 +26,8 @@
   date_scraped: '2019-05-15'
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439314
 - council_reference: DA18/1188.01
-  description: Section 4
+  description: Section 4.55(1) Modification for the Deletion of Conditions 21 and
+    22 of Development Consent DA18/1188
   date_received: '2019-06-06'
   address: 126 Forestwood Drive GLENMORE PARK NSW 2745
   date_scraped: '2019-05-15'
@@ -52,7 +53,7 @@
 - council_reference: DA19/0362
   description: Secondary Dwelling
   date_received: '2019-06-04'
-  address: 19  - 23 Carrington Road LONDONDERRY NSW 2753
+  address: 19 - 23 Carrington Road LONDONDERRY NSW 2753
   date_scraped: '2019-05-15'
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439115
 - council_reference: DA19/0363
@@ -139,14 +140,14 @@
 - council_reference: DA19/0376
   description: Subdivision of one (1) existing lot into two (2) lots
   date_received: '2019-06-05'
-  address: 821  - 849 Luddenham Road LUDDENHAM NSW 2745
+  address: 821 - 849 Luddenham Road LUDDENHAM NSW 2745
   date_scraped: '2019-05-15'
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439239
 - council_reference: DA19/0377
   description: Construction of a Leachate Pond & Decommissioning of an existing Leachate
     Pond associated with an existing landfill facility
   date_received: '2019-06-05'
-  address: 16  - 23 Clifton Avenue KEMPS CREEK NSW 2178
+  address: 16 - 23 Clifton Avenue KEMPS CREEK NSW 2178
   date_scraped: '2019-05-15'
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439245
 - council_reference: DA19/0378
@@ -174,9 +175,9 @@
   date_scraped: '2019-05-15'
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439354
 - council_reference: DA19/0382
-  description: Detached Secondary Dwelling and Wastewater system
+  description: Detached Secondary Dwelling and Wastewater system.
   date_received: '2019-06-07'
-  address: 391  - 393 Londonderry Road LONDONDERRY NSW 2753
+  address: 391 - 393 Londonderry Road LONDONDERRY NSW 2753
   date_scraped: '2019-05-15'
   info_url: http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx?id=439378
 - council_reference: DA19/0383
