@@ -30,8 +30,8 @@ feed.channel.items.each do |item|
     # Have to make this a string to get the date library to parse it
     'date_received'     => Date.parse(item.pubDate.to_s),
     'address'           => item.description.split('.')[0].strip,
-    'info_url'          => "http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx#{item.link}",
-    'date_scraped'      => Date.today.to_s
+    'date_scraped'      => Date.today.to_s,
+    'info_url'          => "http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Pages/XC.Track/SearchApplication.aspx#{item.link}"
   }
   # p record
   ScraperWiki.save_sqlite(['council_reference'], record)
