@@ -5,6 +5,5 @@ IconScraper.scrape_with_params(
   period: "thismonth",
   types: ["DA", "DevApp"]
 ) do |record|
-  record["address"] = record["address"].gsub(",", "")
   IconScraper.save(record)
 end
